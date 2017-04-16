@@ -1,4 +1,6 @@
 Line 1 = shehad
+added another line
+Line Added from Feature 2
 New Line Added
 Feature01 Line Added
 Line 2 = Friday
